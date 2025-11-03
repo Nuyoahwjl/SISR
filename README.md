@@ -1,11 +1,13 @@
 # 🌟 Super-Resolution Minimal Reproduction (SISR) 🌟
 
-[![🐍 Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![✨ Stars](https://img.shields.io/github/stars/Nuyoahwjl/SISR.svg)](https://github.com/Nuyoahwjl/SISR/stargazers)
+![🍺 Top language](https://img.shields.io/github/languages/top/Nuyoahwjl/SISR.svg)
 [![📜 License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
-[![🐛 Issues](https://img.shields.io/github/issues/Nuyoahwjl/SISR.svg)](https://github.com/Nuyoahwjl/SISR/issues)
+[![📈 Last Commit](https://img.shields.io/github/last-commit/Nuyoahwjl/SISR.svg)](https://github.com/Nuyoahwjl/SISR/commits/main)
+[![💻 Code Size](https://img.shields.io/github/languages/code-size/Nuyoahwjl/SISR.svg)](https://github.com/Nuyoahwjl/SISR)
 
-🌈 **Demo Results** 🌈  
+## 🌈 Demo Results 
+
 <img src="images/4.png" width="100%" alt="Demo Result 4"> 
 <img src="images/5.png" width="100%" alt="Demo Result 5">
 <img src="images/6.png" width="100%" alt="Demo Result 6"> 
@@ -28,6 +30,16 @@
 - 📸 **Comprehensive Algorithms**: Includes powerful single-image super-resolution models.
 - 🔧 **Ease of Use**: Simplified configuration and training via YAML files.
 - 📊 **Standard Benchmarks**: Supports datasets like Set5, Set14, BSD100, and Urban100.
+
+---
+
+## 🤖 PSNR on Set5
+
+| **_Scale_** | **_SRCNN_** | **_FSRCNN_** | **_ESPCN_** | **_EDSR_** | **_IMDN_** |
+|---|---|---|---|---|---|
+| x2 | 34.40 | 34.35 | 33.99 | 36.58 | 36.62 |
+| x3 | 30.48 | 30.40 | 30.23 | 32.17 | 32.24 |
+| x4 | 28.09 | 28.24 | 28.04 | 29.60 | 29.32 |
 
 ---
 
