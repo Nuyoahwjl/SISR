@@ -122,4 +122,33 @@ python test.py \
 
 ---
 
+## ✅ Appendix:Model Metrics
+
+<table>
+<tr>
+<td><img src="./output/srcnn_x2/metrics.png" width="100%"></td>
+<td><img src="./output/srcnn_x3/metrics.png" width="100%"></td>
+<td><img src="./output/srcnn_x4/metrics.png" width="100%"></td>
+</tr>
+<tr>
+<td><img src="./output/fsrcnn_x2/metrics.png" width="100%"></td>
+<td><img src="./output/fsrcnn_x3/metrics.png" width="100%"></td>
+<td><img src="./output/fsrcnn_x4/metrics.png" width="100%"></td>
+</tr>
+<td><img src="./output/espcn_x2/metrics.png" width="100%"></td>
+<td><img src="./output/espcn_x3/metrics.png" width="100%"></td>
+<td><img src="./output/espcn_x4/metrics.png" width="100%"></td>
+</tr>
+<td><img src="./output/edsr_x2/metrics.png" width="100%"></td>
+<td><img src="./output/edsr_x3/metrics.png" width="100%"></td>
+<td><img src="./output/edsr_x4/metrics.png" width="100%"></td>
+</tr>
+<td><img src="./output/imdn_x2/metrics.png" width="100%"></td>
+<td><img src="./output/imdn_x3/metrics.png" width="100%"></td>
+<td><img src="./output/imdn_x4/metrics.png" width="100%"></td>
+</tr>
+</table>
+
+---
+
 🎉 **Happy Super-Resolution!** Please ⭐ this repository if you find it useful!
