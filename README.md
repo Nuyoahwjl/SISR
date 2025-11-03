@@ -6,12 +6,12 @@
 [![🐛 Issues](https://img.shields.io/github/issues/Nuyoahwjl/SISR.svg)](https://github.com/Nuyoahwjl/SISR/issues)
 
 🌈 **Demo Results** 🌈  
-<img src="images/4.png" width="45%" alt="Demo Result 4"> 
-<img src="images/5.png" width="45%" alt="Demo Result 5">
-<img src="images/6.png" width="45%" alt="Demo Result 6"> 
-<img src="images/7.png" width="45%" alt="Demo Result 7">
-<img src="images/8.png" width="45%" alt="Demo Result 8"> 
-<img src="images/9.png" width="45%" alt="Demo Result 9">
+<img src="images/4.png" width="80%" alt="Demo Result 4"> 
+<img src="images/5.png" width="80%" alt="Demo Result 5">
+<img src="images/6.png" width="80%" alt="Demo Result 6"> 
+<img src="images/7.png" width="80%" alt="Demo Result 7">
+<img src="images/8.png" width="80%" alt="Demo Result 8"> 
+<img src="images/9.png" width="80%" alt="Demo Result 9">
 
 🚀 This repository provides minimal implementations of advanced image super-resolution algorithms:
 
