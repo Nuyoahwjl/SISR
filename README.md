@@ -1,12 +1,13 @@
 # 🌟 Super-Resolution Minimal Reproduction (SISR) 🌟
 
+<!--
 [![✨ Stars](https://img.shields.io/github/stars/Nuyoahwjl/SISR.svg)](https://github.com/Nuyoahwjl/SISR/stargazers)
 ![🍺 Top language](https://img.shields.io/github/languages/top/Nuyoahwjl/SISR.svg)
 [![📜 License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 [![📈 Last Commit](https://img.shields.io/github/last-commit/Nuyoahwjl/SISR.svg)](https://github.com/Nuyoahwjl/SISR/commits/main)
 [![💻 Code Size](https://img.shields.io/github/languages/code-size/Nuyoahwjl/SISR.svg)](https://github.com/Nuyoahwjl/SISR)
-
 ## 🌈 Demo Results 
+-->
 
 <img src="images/4.png" width="100%" alt="Demo Result 4"> 
 <img src="images/5.png" width="100%" alt="Demo Result 5">
