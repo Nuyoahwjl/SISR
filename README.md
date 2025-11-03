@@ -114,11 +114,15 @@ python test.py \
 
 👓 Relevant papers for implemented algorithms:
 
-- 🧠 **SRCNN**: Dong, Chao, et al. "Learning a deep convolutional network for image super-resolution." *ECCV, 2014* ([Paper Link](https://arxiv.org/abs/1501.00092))
-- 🌟 **FSRCNN**: Dong, Chao, et al. "Accelerating the super-resolution convolutional neural network." *ECCV, 2016* ([Paper Link](https://arxiv.org/abs/1608.00367))
-- 🔍 **ESPCN**: Shi, Wenzhe, et al. "Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network." *CVPR, 2016* ([Paper Link](https://arxiv.org/abs/1609.05158))
-- 🎨 **EDSR**: Lim, Bee, et al. "Enhanced deep residual networks for single image super-resolution." *CVPR Workshops, 2017* ([Paper Link](https://arxiv.org/abs/1707.02921))
-- ✨ **IMDN**: Hui, Zheng, et al. "Lightweight image super-resolution with information multi-distillation network." *ACM MM, 2019* ([Paper Link](https://arxiv.org/abs/1909.11856))
+- 🧠 **SRCNN**: Dong, Chao, et al. *"Learning a Deep Convolutional Network for Image Super-Resolution."* In *European Conference on Computer Vision (ECCV)*, 2014. This paper introduces the Super-Resolution Convolutional Neural Network (SRCNN), a pioneering deep learning-based approach for image super-resolution. ([Paper Link](https://arxiv.org/abs/1501.00092))
+
+- 🌟 **FSRCNN**: Dong, Chao, et al. *"Accelerating the Super-Resolution Convolutional Neural Network."* In *European Conference on Computer Vision (ECCV)*, 2016. This work builds upon SRCNN, proposing a faster and more efficient architecture for real-time applications. ([Paper Link](https://arxiv.org/abs/1608.00367))
+
+- 🔍 **ESPCN**: Shi, Wenzhe, et al. *"Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network."* In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2016. This paper introduces the sub-pixel convolution layer, enabling real-time super-resolution for both images and videos. ([Paper Link](https://arxiv.org/abs/1609.05158))
+
+- 🎨 **EDSR**: Lim, Bee, et al. *"Enhanced Deep Residual Networks for Single Image Super-Resolution."* In *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops*, 2017. This work proposes an enhanced residual network architecture, achieving state-of-the-art performance on multiple benchmarks. ([Paper Link](https://arxiv.org/abs/1707.02921))
+
+- ✨ **IMDN**: Hui, Zheng, et al. *"Lightweight Image Super-Resolution with Information Multi-Distillation Network."* In *ACM International Conference on Multimedia (ACM MM)*, 2019. This paper presents a lightweight and efficient network designed for high-quality image super-resolution with reduced computational cost. ([Paper Link](https://arxiv.org/abs/1909.11856))
 
 ---
 
