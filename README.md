@@ -16,12 +16,12 @@
 <img src="images/8.png" width="100%" alt="Demo Result 8"> 
 <img src="images/9.png" width="100%" alt="Demo Result 9">
 
-🚀 This repository provides minimal implementations of advanced image super-resolution algorithms:
+🌈 This repository provides minimal implementations of advanced image super-resolution algorithms:
 
 - ⚡ **SRCNN** (Super-Resolution Convolutional Neural Network)
 - 🚀 **FSRCNN** (Fast SRCNN)
 - 🌀 **ESPCN** (Efficient Sub-Pixel Convolutional Neural Network)
-- 🌟 **EDSR** (Enhanced Deep Residual Networks)
+- 🕹️ **EDSR** (Enhanced Deep Residual Networks)
 - 🌐 **IMDN** (Information Multi-Distillation Network)
 
 ---
@@ -155,4 +155,4 @@ python test.py \
 
 ---
 
-🎉 **Happy Super-Resolution!** Please ⭐ this repository if you find it useful!
+🥪 **Happy Super-Resolution!** Please ⭐ this repository if you find it useful!
