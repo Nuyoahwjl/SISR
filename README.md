@@ -1,4 +1,4 @@
-# 🌟 Super-Resolution Minimal Reproduction (SISR) 🌟
+# 🌟 Super-Resolution Minimal Reproduction 🌟
 
 <!--
 [![✨ Stars](https://img.shields.io/github/stars/Nuyoahwjl/SISR.svg)](https://github.com/Nuyoahwjl/SISR/stargazers)
